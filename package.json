@@ -1,0 +1,15 @@
+{
+    "name": "@dfyu/mailer",
+    "version": "1.0.0",
+    "license": "MIT",
+    "bin": {
+        "mailer": "./mailer.js"
+    },
+    "dependencies": {
+        "nodemailer": "^6.4.6"
+    },
+    "bugs": {
+        "url": "https://github.com/dfyu/mailer/issues"
+    },
+    "homepage": "https://github.com/dfyu/tinypng"
+}
