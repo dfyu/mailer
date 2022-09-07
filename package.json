@@ -9,7 +9,7 @@
   "dependencies": {
     "arg": "^5.0.2",
     "node-fetch": "^2.6.7",
-    "nodemailer": "^6.4.6"
+    "nodemailer": "^6.6.1"
   },
   "bugs": {
     "url": "https://github.com/dfyu/mailer/issues"
