@@ -1,15 +1,18 @@
 {
-    "name": "@dfyu/mailer",
-    "version": "1.0.0",
-    "license": "MIT",
-    "bin": {
-        "mailer": "./mailer.js"
-    },
-    "dependencies": {
-        "nodemailer": "^6.4.6"
-    },
-    "bugs": {
-        "url": "https://github.com/dfyu/mailer/issues"
-    },
-    "homepage": "https://github.com/dfyu/tinypng"
+  "name": "@dfyu/mailer",
+  "version": "1.0.2",
+  "license": "MIT",
+  "bin": {
+    "mailer": "./mailer.js"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "arg": "^5.0.2",
+    "node-fetch": "^2.6.7",
+    "nodemailer": "^6.4.6"
+  },
+  "bugs": {
+    "url": "https://github.com/dfyu/mailer/issues"
+  },
+  "homepage": "https://github.com/dfyu/tinypng"
 }
