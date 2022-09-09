@@ -18,4 +18,4 @@ type EmailOption = {
   attachments?: attachment []
 }
 
-export default function sendEmail (option: EmailOption, tip: boolean)
+export default function sendEmail (option: EmailOption, tip?: boolean)
